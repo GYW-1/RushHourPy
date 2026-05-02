@@ -1,8 +1,13 @@
 {
   "version": 1,
   "level_index": -1,
+<<<<<<< Updated upstream
   "steps": 2,
   "elapsed_ms": 6788,
+=======
+  "steps": 1,
+  "elapsed_ms": 10351,
+>>>>>>> Stashed changes
   "won": true,
   "failed": false,
   "mode": "NORMAL",
@@ -105,6 +110,7 @@
     "2": 3,
     "3": 3
   },
+<<<<<<< Updated upstream
   "total_powerup_used": 38,
   "total_removed_vehicles": 38,
   "challenge_clears": {
@@ -112,4 +118,9 @@
     "0:LIMITED_TIME": true,
     "3:LIMITED_TIME": true
   }
+=======
+  "total_powerup_used": 20,
+  "total_removed_vehicles": 20,
+  "challenge_clears": {}
+>>>>>>> Stashed changes
 }
